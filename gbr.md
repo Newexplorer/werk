@@ -31,6 +31,9 @@
 2. Na een afwijzing op een verzoek om kwijtschelding, intrekking van een betalingsregeling of afwijzing bezwaar op een aanslag kan er nu direct een betalingsregeling worden aangevraagd.
 3. Nadat een kwijtschelding is toegewezen kan men pas na 16 dagen een regeling aanvragen.
 
+| Betalingsregeling      | Kwijtschelding                                       |
+| Kwijtscheldingsverzoek | Betalingsregeling goedgekeurd, 16 dagen na uitspraak |
+
 **D. Kwijtschelding (quittance/remission of part of the tax assessment)**  
 
 1. binnen 4 maanden beslissing
