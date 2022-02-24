@@ -1,0 +1,13 @@
+﻿Sozawe
+
+Klant belt en geeft aan helemaal geen uitkering te hebben ontvangen. Mogelijke oorzaken:
+
+1. Uitkering gestopt: Ga naar overzicht diensten, dubbelklik, klik in menu op tijdelijke stop om te zien of er een stopdatum is opgevoerd
+
+2. Geen (rest)betalingsopdracht opgevoerd: ga naar rekeningen, check of er een restbetalingsregel is opgevoerd (bij lopende uitkering te herkennen aan geen einddatum), als geen restbetaling of een einddatum dan gaat de betaling er niet uit.
+
+3. Saldo te kort in klantrekening: ga naar rekeningen, klik op klantrekening, als er een minteken voor staat is er een indicatie dat er een saldotekort is. Er is sprake van een saldotekort wanneer er meer inhoudingen op de uitkering zijn dan het beschikbare bedrag van de uitkering, bv: klant zijn uitkering bedraagt € 700 p/m, daarvan betaalt hij via de uitkering € 500 aan huur, € 150 zorgpremie en € 150,00 aan Eneco. Dus de inhoudingen zijn in dit geval € 800 terwijl de uitkering maar € 700 is. In zo’n geval gaat het systeem niets uitkeren en zie je een bedrag op de klantrekening staan met een minteken ervoor. De inkomensconsulent dient in zo’n geval een van de inhoudingen eruit te halen zodat klant toch een aanvullende uitkering ontvangt.
+
+4. Er is geen voeding zichtbaar: berekening dienst moet nog uitgevoerd worden naar aanleiding van een mutatie (Maatregel 100 % of Inkomsten boven de norm)
+
+
