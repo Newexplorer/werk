@@ -1,14 +1,21 @@
 ﻿
-Schone Stad (Irado: 010-2621000)
+Snoeien, maaien, groenonderhoud, onderhoud bosplantsoen, bomen
+Afvalknijper
+Schone Stad (Irado: 010-2621000); postcode 3181
 
+    • Afvaltag
     • Bouw, - sloopafval -> bedrijfscontainer mogelijk
-
     • Huiscontainer (kliko) aanvragen, omwisselen, inleveren, beschadigd en/of gestolen (ook status)
     • Grofvuil niet opgehaald
+    • Melding niet afgehandeld
+    • Meldr → Instructies (download knop)
+    • Melding verkeerslichten (E-suite)
     • Huiscontainer niet geleegd
+    • Inboedel opslaan na ontruiming
     • Ondergrondse containers (kaart van containers)
     • MSB-melding ADOPTANT met nr.
     • Straatkolk
+    • Iets waardevols in de container laten vallen
 
     • Restafval (zwart)  -> afvalwijzer
     • GFT (groen)
@@ -32,6 +39,9 @@ Uitbellijst
 Buiten Scope (woonstad, woonbron etc.)
 
 Buitenbeter app over meldingen over de buitenruimte
-Trashr app (zoek op app)
 
+Groente, fruit- en etensresten + tuinafval Kralingen en Ijsselmonde
+Groente, fruit- en etensresten + tuinafval Lage Land en Oosterflank
+
+      
 
